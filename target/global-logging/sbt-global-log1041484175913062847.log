@@ -1,0 +1,9 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(F, None, None)[0m
+[0m[[0m[31merror[0m] [0m[0mNot a valid command: F[0m
+[0m[[0m[31merror[0m] [0m[0mNot a valid project ID: F[0m
+[0m[[0m[31merror[0m] [0m[0mExpected ':'[0m
+[0m[[0m[31merror[0m] [0m[0mExpected '/'[0m
+[0m[[0m[31merror[0m] [0m[0mNot a valid key: F[0m
+[0m[[0m[31merror[0m] [0m[0mF[0m
+[0m[[0m[31merror[0m] [0m[0m ^[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(idea-shell, None, None)[0m
